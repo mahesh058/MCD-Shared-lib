@@ -1,4 +1,4 @@
-def names(string name){
+def names(String name){
   echo " hello ${name}"
 }
 def emp_id(int emp_id){
